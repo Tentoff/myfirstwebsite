@@ -1,0 +1,81 @@
+main {
+    background-color: rgb(197, 197, 197);
+    padding: 4px;
+    color: #202020
+   
+}
+
+h1 ,h2 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+
+.headtext {
+ 
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    text-align: center;
+
+    font-size: 45px;
+
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1)
+     
+   
+}
+
+
+header img {
+    border: 1px solid #808080;
+    padding: 2px;
+    margin: 8px;
+    border-radius: 8px;
+    max-width: 150px;
+
+}
+
+.menu
+{
+    display: inline-table;
+    padding: 8px;
+    background-color: darkgrey;
+    text-align: center;
+}
+
+.aboutme {
+
+
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-radius: 35px;
+}
+
+.contactme {
+
+    background-color: black;
+    text-align: center;
+    color: white;
+    border-radius: 35px;
+    
+}
+
+.knowledge {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 35px;
+}
+
+.reasonswhy {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 35px;
+}
